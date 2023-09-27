@@ -16,8 +16,11 @@ print(type(liczba2))
 zbior = {1,1,2,2,4,5}
 print(zbior)
 
-
-
+slownik = {'dechanetyzm': 'nurt filozoficzny', 'xd':'smiech przez łzy'}
+print(type(slownik))
+print('hello\nworld')
+dana = int(input('Podaj liczbę'))
+print(type(dana))
 
 
 
